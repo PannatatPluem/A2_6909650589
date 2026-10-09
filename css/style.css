@@ -67,3 +67,27 @@ section {
     height: auto;
     border-radius: 10px;
 }
+/* Light theme */
+body {
+    background-color: #eae4e4;
+    color: #212529;
+}
+
+header {
+    background-color: #eeed8e;
+    color: #212529;
+}
+
+section {
+    background-color: #ffffff;
+}
+
+.card {
+    background-color: #ffffff;
+    color: #212529;
+    border: 1px solid #dee2e6;
+}
+
+a {
+    color: #00ca62;
+}
